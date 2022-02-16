@@ -1,5 +1,5 @@
-Gabriela Katas LaunchX
+# Gabriela Katas LaunchX
 
 Katas para el curso de Python LaunchX
 
-GitHub: GabyComor
+* GitHub: [GabyComor](https://https://github.com/GabyComor)
